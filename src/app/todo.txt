@@ -1,0 +1,4 @@
+Investigate how to debug:
+/Users/rz/.platformio/packages/toolchain-xtensa32/bin/xtensa-esp32-elf-addr2line -pfiaC -e build/PROJECT.elf ADDRESS
+
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/tools/idf-monitor.html#automatic-address-decoding
